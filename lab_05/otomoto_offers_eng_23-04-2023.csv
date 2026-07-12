@@ -1,0 +1,21 @@
+vehicle_brand;vehicle_model;price;mileage;production_year;engine_displacement;power;fuel_type
+Volvo;XC60;149 900 PLN;128 000 km;2019;1969 cm3;190 KM;Diesel
+Volvo;XC90;219 000 PLN;98 000 km;2020;1969 cm3;235 KM;Hybrid
+Volvo;S60;96 500 PLN;176 000 km;2018;1969 cm3;150 KM;Petrol
+BMW;320d;118 500 PLN;167 000 km;2018;1995 cm3;190 KM;Diesel
+BMW;X3;187 900 PLN;112 000 km;2021;1998 cm3;184 KM;Petrol
+Audi;A4;104 900 PLN;142 000 km;2019;1984 cm3;150 KM;Petrol
+Audi;Q5;176 000 PLN;131 000 km;2020;1968 cm3;204 KM;Diesel
+Toyota;Corolla;79 900 PLN;85 000 km;2021;1798 cm3;122 KM;Hybrid
+Toyota;RAV4;149 500 PLN;74 000 km;2022;2487 cm3;218 KM;Hybrid
+Skoda;Octavia;72 400 PLN;156 000 km;2018;1598 cm3;115 KM;Diesel
+Skoda;Superb;108 300 PLN;143 000 km;2019;1984 cm3;190 KM;Petrol
+Mercedes-Benz;C 220;139 800 PLN;119 000 km;2020;1950 cm3;194 KM;Diesel
+Mercedes-Benz;GLC 300;238 900 PLN;88 000 km;2021;1991 cm3;258 KM;Petrol
+Volkswagen;Passat;84 700 PLN;173 000 km;2018;1968 cm3;150 KM;Diesel
+Volkswagen;Tiguan;132 900 PLN;109 000 km;2020;1498 cm3;150 KM;Petrol
+Kia;Sportage;101 600 PLN;97 000 km;2021;1598 cm3;136 KM;Diesel
+Hyundai;Tucson;109 900 PLN;93 000 km;2021;1598 cm3;150 KM;Petrol
+Ford;Focus;58 900 PLN;161 000 km;2017;1499 cm3;120 KM;Diesel
+Ford;Kuga;96 800 PLN;126 000 km;2019;1496 cm3;150 KM;Petrol
+Mazda;CX-5;128 400 PLN;101 000 km;2020;2488 cm3;194 KM;Petrol
