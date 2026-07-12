@@ -10,6 +10,7 @@
 | Plik | Opis |
 |------|------|
 | `AAP_Zestaw_Zaliczeniowy.ipynb` | Główny notebook — 6 labów × (teoria + przykład + zadanie) |
+| `sprawozdanie.md` | Krótkie sprawozdanie z wykonanych zadań |
 | `preflight_download.py` | **Uruchom RAZ przed otwarciem notebooka** — sprawdza pakiety i pobiera dataset |
 | `README.md` | Ten plik |
 
