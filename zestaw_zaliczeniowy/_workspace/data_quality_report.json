@@ -1,0 +1,61 @@
+{
+  "contract": "imdb_reviews",
+  "validated_at": "2026-07-12T12:31:18Z",
+  "row_count": 2000,
+  "summary": {
+    "rules_total": 8,
+    "rules_passed": 8,
+    "rules_failed": 0,
+    "errors_failed": 0
+  },
+  "rules": [
+    {
+      "name": "dataset_not_empty",
+      "severity": "error",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "name": "text_not_null",
+      "severity": "error",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "name": "labels_binary",
+      "severity": "error",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "name": "word_count_positive",
+      "severity": "warning",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "name": "char_count_positive",
+      "severity": "warning",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "name": "duplicates_below_1pct",
+      "severity": "warning",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "name": "class_balance_above_0_9",
+      "severity": "warning",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "name": "html_ratio_below_0_8",
+      "severity": "info",
+      "passed": true,
+      "message": ""
+    }
+  ]
+}
